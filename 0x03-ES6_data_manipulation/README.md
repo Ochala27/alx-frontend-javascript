@@ -1,0 +1,1 @@
+JavaScript arrays are a powerful tool for storing and manipulating data. Some of the most common array manipulation methods include: push() : adds an element to the end of an array. Example: let fruits = ['apple', 'banana', 'orange']; // add 'mango' to the end of the array.
